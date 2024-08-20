@@ -1,3 +1,3 @@
 # Anime_recomendation
 
-<img src="Obraz.PNG" alt="JavaPaint Screenshot">
+<img src="obraz.PNG" alt="JavaPaint Screenshot">
